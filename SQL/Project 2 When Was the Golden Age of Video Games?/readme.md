@@ -1,4 +1,4 @@
-# Case Study 4 : When Was the Golden Age of Video Games?
+# Project 2 : When Was the Golden Age of Video Games?
 
 <p align="center"> <img width="387" alt="image"  src="https://user-images.githubusercontent.com/92245436/192102065-97943db5-aebe-41c0-9396-267564ddd9f1.png"> </p>
 
